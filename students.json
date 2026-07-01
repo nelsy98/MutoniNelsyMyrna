@@ -1,0 +1,27 @@
+{
+  "REG001": {
+    "program": "Computer Science",
+    "address": "Nairobi",
+    "contact": "+254712345678"
+  },
+  "REG002": {
+    "program": "Business Administration",
+    "address": "Kisumu",
+    "contact": "+254723456789"
+  },
+  "REG009": {
+    "program": "Law",
+    "address": "Kyaliwajjala",
+    "contact": "0771227625"
+  },
+  "REG003": {
+    "program": "Architecture",
+    "address": "Entebbe",
+    "contact": "0755556255"
+  },
+  "REG004": {
+    "program": "Commerce",
+    "address": "Buwate",
+    "contact": "0700582155"
+  }
+}

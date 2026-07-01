@@ -1,0 +1,13 @@
+ 2026-07-01 14:21:36,492 - INFO - Student system started at 2026-07-01 14:21:36.492189
+2026-07-01 14:21:36,494 - INFO - User exited the system.
+2026-07-01 14:22:39,149 - INFO - Student system started at 2026-07-01 14:22:39.149178
+2026-07-01 14:23:25,374 - ERROR - User input error: Registration number already exists.
+2026-07-01 14:23:54,605 - INFO - Added student with registration number REG009
+2026-07-01 14:24:02,584 - INFO - Viewed all student records.
+2026-07-01 14:24:04,800 - INFO - Viewed all student records.
+2026-07-01 14:26:04,792 - INFO - Added student with registration number REG003
+2026-07-01 14:27:26,310 - INFO - Added student with registration number REG004
+2026-07-01 14:27:29,989 - INFO - Viewed all student records.
+2026-07-01 14:28:10,645 - INFO - Updated student with registration number REG004
+2026-07-01 14:28:42,506 - ERROR - User input error: No student found with that registration number.
+2026-07-01 14:28:49,405 - INFO - User exited the system.
